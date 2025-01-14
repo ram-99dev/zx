@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#topnavbar{
+    background-color: orange;
+}
+
+.navbar{
+    display: flex;
+}
+
+.list-items{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.logo{
+    height: 55px;
+    border-radius: 10px;
+    mix-blend-mode:multiply;
+
+}
+
+#background{
+    background-image: url(./images/topbackground.png.webp);
+    height: 400px;
+    object-fit: fill;
+}
+
+.top-background{
+    text-align: center;
+
+}
+
+.top-background > h1{
+    font-size: 80px;
+}
+
+.top-background > p{
+    font-size: 30px;
+}
+
+#introduction{
+    text-align: center;
+    margin-top:50px;
+}
+
+.container > img{
+    border-radius: 50%;
+}
+
+.container > h2{
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.container > p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.projects > h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.title{
+    margin-bottom: 100px;
+}
+
+.col-sm-6 > p{
+    text-align: justify;
+    
+}
+
+.para{
+    font-size: 20px;
+}
+
+.row{
+    margin-bottom: 100px;
+
+}
+
+.images{
+    text-align: right;
+    
+}
+
+.images > img{
+    border-radius: 20px;
+}
+
+.gmail{
+    text-align: center;
+   
+}
+
+.phone{
+    text-align: center;
+}
+
+.btn-dark{
+    border: 0;
+    padding: 20px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+}
+
+.a{
+    text-align: center;
+    margin: 0px;
+    font-weight: bolder;
+}
+
+.col-md-6 > a{
+    text-decoration: none;
+}
+
+.ram{
+    background-color:lightskyblue;
+}
+
+
+.footer{
+    margin: 0;
+    background-image: url(./images/topbackground.png.webp);
+}

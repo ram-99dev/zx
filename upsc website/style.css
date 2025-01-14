@@ -1,0 +1,84 @@
+.two-box{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+
+
+.grid-container{
+    display:grid;
+    grid-template-rows: 300px 300px;
+    grid-template-columns: 300px 300px 300px;
+    gap: 30px;
+    
+    
+}
+
+.i{
+margin-bottom: 50px;
+}
+
+.cl{
+    width: 300px;
+}
+.mass{
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+.ii{
+    display:flex;
+    justify-content: center;
+    
+
+}
+
+.c{
+    display:flex;
+    justify-content: center;
+    margin-top: 15%;
+
+}
+
+.a{
+    display:flex;
+    justify-content: center;
+}
+
+#message{
+    text-align: center;
+    
+}
+.heading > h1{
+    font-weight: bolder;
+    margin-top:50px;
+}
+
+#renovate{
+    margin-top: 100px;
+}
+
+.heading > p{
+    font-size: 20px;
+}
+.csat{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.arts{
+    text-align: center;
+    margin-top: 20px;
+}
+.but{
+    text-align: center;
+    
+}
+
+
